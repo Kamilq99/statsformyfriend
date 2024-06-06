@@ -1,4 +1,4 @@
-# statsformyfriend## Jupyter Notebook: Analiza atrakcyjności rynku i pozycji konkurencyjnej
+# Jupyter Notebook: Analiza atrakcyjności rynku i pozycji konkurencyjnej
 
 Ten notebook Jupyter zawiera obliczenia i wizualizacje dla dwóch zestawów danych: "Atrakcyjność rynku" i "Pozycja konkurencyjna".
 
